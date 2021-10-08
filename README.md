@@ -7,4 +7,6 @@
 - sucre : 100 grammes
 
 - beurre : 150 grammes
+
+- oeufs : 1 seul
 ## instructions
