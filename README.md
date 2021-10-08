@@ -8,3 +8,7 @@
 - préchauffer le four à 180°C
 	
 - mélanger dans un saladir le beurre, le sucre la farine et l'oeuf
+
+- Casser le chocolat en petits morceaux et le mélanger au reste de la preparation
+
+
