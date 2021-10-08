@@ -14,3 +14,5 @@
 - former de petites boules et les déposer sur la plaque de cuisson
 
 - Enfourner pour 10 minutes de cuisson
+
+- Bon appétit !
