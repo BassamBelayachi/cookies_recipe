@@ -2,5 +2,5 @@
 
 ## ingrédients
 
-
+- farine : 150 grammes
 ## instructions
