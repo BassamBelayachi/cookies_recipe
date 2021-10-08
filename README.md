@@ -9,4 +9,8 @@
 - beurre : 150 grammes
 
 - oeufs : 1 seul
+
+- Chocolat noir : 100 grammes
+
 ## instructions
+
