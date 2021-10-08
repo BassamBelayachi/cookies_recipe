@@ -11,4 +11,6 @@
 
 - Casser le chocolat en petits morceaux et le mélanger au reste de la preparation
 
-- former de petites boules et les placer sur la placede cuisson
+- former de petites boules et les déposer sur la plaque de cuisson
+
+- Enfourner pour 10 minutes de cuisson
